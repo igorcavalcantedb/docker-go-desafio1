@@ -1,5 +1,10 @@
-# docker-go-desafio1
+# Desafio Docker usando Golang!
+Condições:
 
-<p>1- Print Code.education Rocks!</p>
-<p>2- A imagem de nosso projeto Go precisa ter menos de 2MB</p>
+- Imprimir na tela : Code.education Rocks!
+- A imagem do projeto Go precisa ter menos de 2MB
+
+### Comando para executar:
+
+docker run igor86/codeeducation
 
